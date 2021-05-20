@@ -16,7 +16,7 @@ I craft strategy-based products by asking the right questions and understanding 
 - 🔭 **I’m currently working on:** QingCloud
 - 🌱 **I’m currently learning:** JavaScrip, TypeScrip, Three.js, Blender
 - 💬 **Ask me about:** Product Design, UX Design, UI Design
-- ⚡ **Hobbies:** books, internet, music, codding, movie.
+- ⚡ **Hobbies:** books, internet, music, movie, coding.
 - 😄 **Pronouns:** she/her
 
 ---
