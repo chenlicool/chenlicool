@@ -1,7 +1,7 @@
 
 <h2 align="left"> 👋  Hey there, I'm A-Li </h2>
 
-<h4 align="left"> Digital product designer who can work with code, currently focused on Cloud Computing  </h4>
+<h4 align="left"> Digital product designer who can work with code, currently focused on cloud computing  </h4>
 I craft strategy-based products by asking the right questions and understanding the problem. I strive in achieving a positive impact on any company or product I am working on.
 
 ---
