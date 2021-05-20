@@ -13,11 +13,11 @@ I craft strategy-based products by asking the right questions and understanding 
 -->
 
 
-- 🔭 **I’m currently working on:** Computer Graphics
-- 🌱 **I’m currently learning:** JavaScrip, TypeScrip, Three.js, Blender
-- 💬 **Ask me about:** Product Design, UX Design, UI Design
+- 🔭 **I’m currently working on:** Computer Graphics.
+- 🌱 **I’m currently learning:** JavaScrip, Three.js, Blender, TypeScrip.
+- 💬 **Ask me about:** Product Design, UX Design, UI Design.
 - ⚡ **Hobbies:** books, internet, music, movie, coding.
-- 😄 **Pronouns:** she/her
+- 😄 **Pronouns:** she/her.
 
 ---
 <h4 align="left">💁 Contact me</h4>
