@@ -25,4 +25,3 @@ I craft strategy-based products by asking the right questions and understanding 
 - Wechat: chenlicoool
 - Email: chenlicool@foxmail.com
 - Jike：<a href="https://web.okjike.com/u/8ff9c142-e256-497e-a69d-c43e21b012b3">@A-Li</a>
-- Portfolio: http://www.chenli.cool
